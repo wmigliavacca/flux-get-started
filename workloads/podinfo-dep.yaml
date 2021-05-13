@@ -55,6 +55,7 @@ spec:
         - --level=info
         - --random-delay=false
         - --random-error=false
+        - --u1-message="Welcome to Flux TIMO"
         env:
         - name: PODINFO_UI_COLOR
           value: "#34577c"
